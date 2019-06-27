@@ -1,0 +1,11 @@
+C:\Users\n0maGo\source\repos\normal10as\pg2-s19e204-estructuras-de-datos-fakumax\EstructurasDatos\4_02.Ventas\bin\Debug\netcoreapp2.1\4_02.Ventas.deps.json
+C:\Users\n0maGo\source\repos\normal10as\pg2-s19e204-estructuras-de-datos-fakumax\EstructurasDatos\4_02.Ventas\bin\Debug\netcoreapp2.1\4_02.Ventas.runtimeconfig.json
+C:\Users\n0maGo\source\repos\normal10as\pg2-s19e204-estructuras-de-datos-fakumax\EstructurasDatos\4_02.Ventas\bin\Debug\netcoreapp2.1\4_02.Ventas.runtimeconfig.dev.json
+C:\Users\n0maGo\source\repos\normal10as\pg2-s19e204-estructuras-de-datos-fakumax\EstructurasDatos\4_02.Ventas\bin\Debug\netcoreapp2.1\4_02.Ventas.dll
+C:\Users\n0maGo\source\repos\normal10as\pg2-s19e204-estructuras-de-datos-fakumax\EstructurasDatos\4_02.Ventas\bin\Debug\netcoreapp2.1\4_02.Ventas.pdb
+C:\Users\n0maGo\source\repos\normal10as\pg2-s19e204-estructuras-de-datos-fakumax\EstructurasDatos\4_02.Ventas\obj\Debug\netcoreapp2.1\4_02.Ventas.vbprojAssemblyReference.cache
+C:\Users\n0maGo\source\repos\normal10as\pg2-s19e204-estructuras-de-datos-fakumax\EstructurasDatos\4_02.Ventas\obj\Debug\netcoreapp2.1\4_02.Ventas.vbproj.CoreCompileInputs.cache
+C:\Users\n0maGo\source\repos\normal10as\pg2-s19e204-estructuras-de-datos-fakumax\EstructurasDatos\4_02.Ventas\obj\Debug\netcoreapp2.1\4_02.Ventas.AssemblyInfoInputs.cache
+C:\Users\n0maGo\source\repos\normal10as\pg2-s19e204-estructuras-de-datos-fakumax\EstructurasDatos\4_02.Ventas\obj\Debug\netcoreapp2.1\4_02.Ventas.AssemblyInfo.vb
+C:\Users\n0maGo\source\repos\normal10as\pg2-s19e204-estructuras-de-datos-fakumax\EstructurasDatos\4_02.Ventas\obj\Debug\netcoreapp2.1\4_02.Ventas.dll
+C:\Users\n0maGo\source\repos\normal10as\pg2-s19e204-estructuras-de-datos-fakumax\EstructurasDatos\4_02.Ventas\obj\Debug\netcoreapp2.1\4_02.Ventas.pdb
