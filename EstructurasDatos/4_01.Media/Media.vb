@@ -12,6 +12,7 @@ Module Media
         Console.WriteLine("La media es : " & sumatoria / valor.Length)
         elementosDesviacion(valor, sumatoria)
     End Sub
+
     Function calculoElementos(ByRef sumatoria As Integer) As Integer()
         Dim valor(4) As Integer
         For x = 0 To valor.Length - 1
