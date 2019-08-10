@@ -6,19 +6,27 @@ Imports System
 'elemento se obtiene restándole al elemento la MEDIA.
 Module Media
     Sub Main(args As String())
-        calculoElementos()
-    End Sub
-    Sub calculoElementos()
-        Dim valor(4) As Integer
         Dim sumatoria As Integer
+        Dim valor() As Integer = calculoElementos(sumatoria)
+        Console.WriteLine(vbCrLf & "La Sumatoria es : " & sumatoria)
+        Console.WriteLine("La media es : " & sumatoria / valor.Length)
+        elementosDesviacion(valor, sumatoria)
+    End Sub
+    Function calculoElementos(ByRef sumatoria As Integer) As Integer()
+        Dim valor(4) As Integer
         For x = 0 To valor.Length - 1
             Console.Write("Ingrese un valor : ")
             valor(x) = Console.ReadLine
             sumatoria += valor(x)
         Next
-        Console.WriteLine("Los elementos contenidos son : ")
-        For Each m In valor
-            Console.WriteLine("Elemento : {0}  - Desviación : {1}", m, m - (sumatoria / valor.Count))
+        Return valor
+    End Function
+
+    Sub elementosDesviacion(valor() As Integer, sumatoria As Integer)
+        Console.WriteLine(vbCrLf & "Los elementos son : ")
+        For Each elemento In valor
+            Console.WriteLine("Elemento : {0},  Desviación : {1}", elemento, elemento - (sumatoria / valor.Count))
         Next
     End Sub
 End Module
+

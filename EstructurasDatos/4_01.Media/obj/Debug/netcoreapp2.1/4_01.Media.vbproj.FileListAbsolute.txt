@@ -9,3 +9,14 @@ C:\Users\n0maGo\source\repos\normal10as\pg2-s19e204-estructuras-de-datos-fakumax
 C:\Users\n0maGo\source\repos\normal10as\pg2-s19e204-estructuras-de-datos-fakumax\EstructurasDatos\4_01.Media\obj\Debug\netcoreapp2.1\4_01.Media.AssemblyInfo.vb
 C:\Users\n0maGo\source\repos\normal10as\pg2-s19e204-estructuras-de-datos-fakumax\EstructurasDatos\4_01.Media\obj\Debug\netcoreapp2.1\4_01.Media.dll
 C:\Users\n0maGo\source\repos\normal10as\pg2-s19e204-estructuras-de-datos-fakumax\EstructurasDatos\4_01.Media\obj\Debug\netcoreapp2.1\4_01.Media.pdb
+C:\Users\n0mak\Source\Repos\normal10as\pg2-s19e204-estructuras-de-datos-fakumax\EstructurasDatos\4_01.Media\bin\Debug\netcoreapp2.1\4_01.Media.deps.json
+C:\Users\n0mak\Source\Repos\normal10as\pg2-s19e204-estructuras-de-datos-fakumax\EstructurasDatos\4_01.Media\bin\Debug\netcoreapp2.1\4_01.Media.runtimeconfig.json
+C:\Users\n0mak\Source\Repos\normal10as\pg2-s19e204-estructuras-de-datos-fakumax\EstructurasDatos\4_01.Media\bin\Debug\netcoreapp2.1\4_01.Media.runtimeconfig.dev.json
+C:\Users\n0mak\Source\Repos\normal10as\pg2-s19e204-estructuras-de-datos-fakumax\EstructurasDatos\4_01.Media\bin\Debug\netcoreapp2.1\4_01.Media.dll
+C:\Users\n0mak\Source\Repos\normal10as\pg2-s19e204-estructuras-de-datos-fakumax\EstructurasDatos\4_01.Media\bin\Debug\netcoreapp2.1\4_01.Media.pdb
+C:\Users\n0mak\Source\Repos\normal10as\pg2-s19e204-estructuras-de-datos-fakumax\EstructurasDatos\4_01.Media\obj\Debug\netcoreapp2.1\4_01.Media.vbprojAssemblyReference.cache
+C:\Users\n0mak\Source\Repos\normal10as\pg2-s19e204-estructuras-de-datos-fakumax\EstructurasDatos\4_01.Media\obj\Debug\netcoreapp2.1\4_01.Media.vbproj.CoreCompileInputs.cache
+C:\Users\n0mak\Source\Repos\normal10as\pg2-s19e204-estructuras-de-datos-fakumax\EstructurasDatos\4_01.Media\obj\Debug\netcoreapp2.1\4_01.Media.AssemblyInfoInputs.cache
+C:\Users\n0mak\Source\Repos\normal10as\pg2-s19e204-estructuras-de-datos-fakumax\EstructurasDatos\4_01.Media\obj\Debug\netcoreapp2.1\4_01.Media.AssemblyInfo.vb
+C:\Users\n0mak\Source\Repos\normal10as\pg2-s19e204-estructuras-de-datos-fakumax\EstructurasDatos\4_01.Media\obj\Debug\netcoreapp2.1\4_01.Media.dll
+C:\Users\n0mak\Source\Repos\normal10as\pg2-s19e204-estructuras-de-datos-fakumax\EstructurasDatos\4_01.Media\obj\Debug\netcoreapp2.1\4_01.Media.pdb

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\n0maGo\\source\\repos\\normal10as\\pg2-s19e204-estructuras-de-datos-fakumax\\EstructurasDatos\\4_02.Ventas\\4_02.Ventas.vbproj": {}
+    "C:\\Users\\n0mak\\Source\\Repos\\normal10as\\pg2-s19e204-estructuras-de-datos-fakumax\\EstructurasDatos\\4_02.Ventas\\4_02.Ventas.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\n0maGo\\source\\repos\\normal10as\\pg2-s19e204-estructuras-de-datos-fakumax\\EstructurasDatos\\4_02.Ventas\\4_02.Ventas.vbproj": {
+    "C:\\Users\\n0mak\\Source\\Repos\\normal10as\\pg2-s19e204-estructuras-de-datos-fakumax\\EstructurasDatos\\4_02.Ventas\\4_02.Ventas.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\n0maGo\\source\\repos\\normal10as\\pg2-s19e204-estructuras-de-datos-fakumax\\EstructurasDatos\\4_02.Ventas\\4_02.Ventas.vbproj",
+        "projectUniqueName": "C:\\Users\\n0mak\\Source\\Repos\\normal10as\\pg2-s19e204-estructuras-de-datos-fakumax\\EstructurasDatos\\4_02.Ventas\\4_02.Ventas.vbproj",
         "projectName": "4_02.Ventas",
-        "projectPath": "C:\\Users\\n0maGo\\source\\repos\\normal10as\\pg2-s19e204-estructuras-de-datos-fakumax\\EstructurasDatos\\4_02.Ventas\\4_02.Ventas.vbproj",
-        "packagesPath": "C:\\Users\\n0maGo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\n0maGo\\source\\repos\\normal10as\\pg2-s19e204-estructuras-de-datos-fakumax\\EstructurasDatos\\4_02.Ventas\\obj\\",
+        "projectPath": "C:\\Users\\n0mak\\Source\\Repos\\normal10as\\pg2-s19e204-estructuras-de-datos-fakumax\\EstructurasDatos\\4_02.Ventas\\4_02.Ventas.vbproj",
+        "packagesPath": "C:\\Users\\n0mak\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\n0mak\\Source\\Repos\\normal10as\\pg2-s19e204-estructuras-de-datos-fakumax\\EstructurasDatos\\4_02.Ventas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\n0maGo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\n0mak\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -42,6 +42,7 @@
         "netcoreapp2.1": {
           "dependencies": {
             "Microsoft.NETCore.App": {
+              "suppressParent": "All",
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
