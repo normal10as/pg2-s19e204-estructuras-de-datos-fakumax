@@ -8,27 +8,36 @@ Imports System
 'de venta por ese producto y el total general (acumulado los productos anteriores).
 '* Se repite el proceso hasta que el código sea cero.
 Module Ventas
+    '*Incompleto
     Sub Main(args As String())
-        productoBuscar()
-
-    End Sub
-    Sub productoBuscar()
         Dim codigo = New Integer() {1, 2, 3}
         Dim nombre = New String() {"papa", "manzana", "uva"}
         Dim precio = New Single() {2.6, 1.2, 4.5}
-        Dim buscar As UShort
-        Console.WriteLine("Ingrese un valor : ")
-        buscar = Console.ReadLine
-        Do While True
-            For x = 0 To codigo.GetUpperBound(0)
-                If buscar = codigo(x) Then
-                    Console.WriteLine("{0} - {1}     - {2} ", codigo(x), nombre(x), precio(x))
+        Dim numero As Integer
+        numero = productoBuscar(codigo)
+        Console.WriteLine("El producto es: " & nombre(numero - 1))
+        Console.WriteLine("El precio es: " & precio(numero - 1))
+
+    End Sub
+    Function productoBuscar(codigo() As Integer)
+
+        Do Until False
+            Dim valor As UShort = ingresoValor()
+            For x = 0 To codigo.Length - 1
+                If valor = codigo(x) Then
+                    Return valor
                 End If
             Next
+            Return False
 
 
         Loop
 
-    End Sub
+    End Function
+
+    Function ingresoValor() As UShort
+        Console.WriteLine("Ingrese un valor : ")
+        Return Console.ReadLine
+    End Function
 
 End Module

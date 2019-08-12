@@ -1,0 +1,11 @@
+C:\Users\n0mak\Source\Repos\normal10as\pg2-s19e204-estructuras-de-datos-fakumax\EstructurasDatos\4_03.Notas\bin\Debug\netcoreapp2.2\4_03.Notas.deps.json
+C:\Users\n0mak\Source\Repos\normal10as\pg2-s19e204-estructuras-de-datos-fakumax\EstructurasDatos\4_03.Notas\bin\Debug\netcoreapp2.2\4_03.Notas.runtimeconfig.json
+C:\Users\n0mak\Source\Repos\normal10as\pg2-s19e204-estructuras-de-datos-fakumax\EstructurasDatos\4_03.Notas\bin\Debug\netcoreapp2.2\4_03.Notas.runtimeconfig.dev.json
+C:\Users\n0mak\Source\Repos\normal10as\pg2-s19e204-estructuras-de-datos-fakumax\EstructurasDatos\4_03.Notas\bin\Debug\netcoreapp2.2\4_03.Notas.dll
+C:\Users\n0mak\Source\Repos\normal10as\pg2-s19e204-estructuras-de-datos-fakumax\EstructurasDatos\4_03.Notas\bin\Debug\netcoreapp2.2\4_03.Notas.pdb
+C:\Users\n0mak\Source\Repos\normal10as\pg2-s19e204-estructuras-de-datos-fakumax\EstructurasDatos\4_03.Notas\obj\Debug\netcoreapp2.2\4_03.Notas.vbprojAssemblyReference.cache
+C:\Users\n0mak\Source\Repos\normal10as\pg2-s19e204-estructuras-de-datos-fakumax\EstructurasDatos\4_03.Notas\obj\Debug\netcoreapp2.2\4_03.Notas.vbproj.CoreCompileInputs.cache
+C:\Users\n0mak\Source\Repos\normal10as\pg2-s19e204-estructuras-de-datos-fakumax\EstructurasDatos\4_03.Notas\obj\Debug\netcoreapp2.2\4_03.Notas.AssemblyInfoInputs.cache
+C:\Users\n0mak\Source\Repos\normal10as\pg2-s19e204-estructuras-de-datos-fakumax\EstructurasDatos\4_03.Notas\obj\Debug\netcoreapp2.2\4_03.Notas.AssemblyInfo.vb
+C:\Users\n0mak\Source\Repos\normal10as\pg2-s19e204-estructuras-de-datos-fakumax\EstructurasDatos\4_03.Notas\obj\Debug\netcoreapp2.2\4_03.Notas.dll
+C:\Users\n0mak\Source\Repos\normal10as\pg2-s19e204-estructuras-de-datos-fakumax\EstructurasDatos\4_03.Notas\obj\Debug\netcoreapp2.2\4_03.Notas.pdb
